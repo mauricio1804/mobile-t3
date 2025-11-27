@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1007913884626",
+    "project_id": "trabalho03-d31b7",
+    "storage_bucket": "trabalho03-d31b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007913884626:android:9cef6cfbe8b88de36e060b",
+        "android_client_info": {
+          "package_name": "com.example.jogos_videogame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPf4VRbpemCVlRAgjAviitsE2Vr6MxBpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007913884626:android:a366fe76133836876e060b",
+        "android_client_info": {
+          "package_name": "com.example.jogos_videogame_t3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPf4VRbpemCVlRAgjAviitsE2Vr6MxBpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
